@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Zadanie domowe wykonane!");
+Console.WriteLine("Zadanie domowe - dzień trzeci");
